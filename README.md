@@ -14,7 +14,15 @@ Repositorio del bootcamp Tzuzul Code, en Ciencia de Datos.
   - Movies
   - Jobs
   - Anuncios en redes sociales
+  - Alguna otra data interesante
  
  
  Plantearse cinco preguntas de acuerdo a la información, por ejemplo, ¿qué habilidad es la más requerrida en Google?
+ 
+ ## Análisis Exploratorio de Canciones
+ 
+ ### Contenido
+- [Data](https://github.com/semilun4/Data-Science/blob/main/songs_normalize.csv)
+
+
 
