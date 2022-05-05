@@ -22,7 +22,7 @@ Repositorio del bootcamp Tzuzul Code, en Ciencia de Datos.
  ## Análisis Exploratorio de Canciones
  
  ### Contenido
-- [Data](https://github.com/semilun4/Data-Science/blob/main/songs_normalize.csv)
+- [Data](https://github.com/semilun4/Data-Science/blob/main/songs_normalize.csv) extraída de [Kaggle](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset?select=movie_metadata.csv)
 
 
 
