@@ -22,7 +22,7 @@ Repositorio del bootcamp Tzuzul Code, en Ciencia de Datos.
  ## Análisis Exploratorio de Canciones
  
  ### Contenido
-- [Data](https://github.com/semilun4/Data-Science/blob/main/songs_normalize.csv) extraída de [Kaggle](https://www.kaggle.com/datasets/geomack/spotifyclassification?select=data.csv)
+- [Data](https://github.com/semilun4/Data-Science/blob/main/songs_normalize.csv) extraída de [Kaggle](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019)
 
 
 
