@@ -1,4 +1,4 @@
-# Bootcamp Data Science
+# Bootcamp Tzuzul Code Data Science
 
 Repositorio del bootcamp Tzuzul Code, en Ciencia de Datos.
 
