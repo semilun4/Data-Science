@@ -1,4 +1,4 @@
-# Data-Science
+# Bootcamp Data Science
 
 Repositorio del bootcamp Tzuzul Code, en Ciencia de Datos.
 
@@ -30,4 +30,4 @@ Repositorio del bootcamp Tzuzul Code, en Ciencia de Datos.
 
 - [Presentación](https://www.canva.com/design/DAFA-nyVFgk/Dt-gnAA-dqHRtmXSZ3crUw/view?utm_content=DAFA-nyVFgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
 
-
+Además, el repositorio contine las notas del curso que fueron base del proyecto.
